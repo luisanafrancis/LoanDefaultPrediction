@@ -29,7 +29,3 @@ We initially experimented with Random Forest and Decision Tree models. However, 
    - Ongoing monitoring and fine-tuning of the model's performance.
    - Exploration of feature engineering, hyperparameter tuning, or alternative models if necessary.
    - Potential implementation of the model in real-world lending processes to inform decisions and reduce potential losses.
-
----
-
-This summary provides a succinct overview of the project's objectives, data, model selection, and approach, focusing on the choice of Logistic Regression as the preferred model for loan default prediction.
